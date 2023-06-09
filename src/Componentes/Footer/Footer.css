@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    height: 82px;
+    left: 0px;
+    top: 1909px;
+}
+
+.Linea-Footer{
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    left: 0px;
+    top: 1907px;
+    background: #2A7AE4;
+}
+
+.Footer{
+    position: absolute;
+    display: flex;
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 82px;
+    left: 0px;
+    top: 1909px;
+    align-items: center;
+}
+
